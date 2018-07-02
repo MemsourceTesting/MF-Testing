@@ -20,6 +20,6 @@ msgid "Welcome back, %1$s! Your last visit was on %2$s"
 
 
 
-msgid "Something something."
+msgid "Something something. Something again."
 
 msgid "Something else. Or not?"
