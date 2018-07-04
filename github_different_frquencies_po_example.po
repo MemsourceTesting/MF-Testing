@@ -25,5 +25,6 @@ msgid "Something something. Something again."
 msgid "Something else. Or not?"
 msgid "Etc."
 msgid "Etc.2"
+msgid "Frequencies testing"
 
 msgid "ihwpepeow?"
