@@ -64,6 +64,11 @@ msgstr ""
 msgid "Update 9:30"
 msgstr ""
 
+#: actionlog/templates/object_action_list.html:8
+msgid "update 9:41 - one hour frequency"
+msgstr ""
+
+
 #: foo/templates/bar.html:180
 msgid "{0} result"
 msgid_plural "{0} results"
