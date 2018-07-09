@@ -29,5 +29,3 @@ msgid "Frequencies testing"
 msgid "Different frequency TEST"
 msgid "5 minutes"
 msgid "org 3"
-
-msgid "ihwpepeow?"
