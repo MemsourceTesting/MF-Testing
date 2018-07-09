@@ -60,6 +60,10 @@ msgstr ""
 msgid "Update 10"
 msgstr ""
 
+#: actionlog/templates/object_action_list.html:8
+msgid "Update 9:30"
+msgstr ""
+
 #: foo/templates/bar.html:180
 msgid "{0} result"
 msgid_plural "{0} results"
