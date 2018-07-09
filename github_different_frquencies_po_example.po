@@ -41,3 +41,5 @@ msgid "google+git in one project"
 msgid "translation export set to different frequency"
 
 msgid "another update"
+
+msgid "update 9:30"
