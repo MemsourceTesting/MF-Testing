@@ -72,7 +72,9 @@ msgstr ""
 msgid "update 9:50 - weekly frequency"
 msgstr ""
 
-
+#: actionlog/templates/object_action_list.html:8
+msgid "update 10:05 - monthly frequency"
+msgstr ""
 
 #: foo/templates/bar.html:180
 msgid "{0} result"
