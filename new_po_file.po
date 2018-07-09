@@ -19,18 +19,32 @@ msgstr ""
 #: actionlog/templates/object_action_list.html:8
 msgid "Action"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update 2"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update 3"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update 4"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update 5"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update 6"
 msgstr ""
+
+#: actionlog/templates/object_action_list.html:8
 msgid "Update 7"
 msgstr ""
 
