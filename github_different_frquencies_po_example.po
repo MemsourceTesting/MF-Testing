@@ -43,3 +43,6 @@ msgid "translation export set to different frequency"
 msgid "another update"
 
 msgid "update 9:30"
+
+
+msgid "update 9:50 - weekly frequency"
