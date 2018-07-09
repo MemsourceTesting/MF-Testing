@@ -48,3 +48,5 @@ msgid "update 9:30"
 msgid "update 9:50 - weekly frequency"
 
 msgid "update 10:05 - monthly frequency"
+
+msgid "update 10:24 - daily frequency"
