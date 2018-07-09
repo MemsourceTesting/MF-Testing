@@ -23,11 +23,19 @@ msgid "Welcome back, %1$s! Your last visit was on %2$s"
 msgid "Something something. Something again."
 
 msgid "Something else. Or not?"
+
 msgid "Etc."
+
 msgid "Etc.2"
+
 msgid "Frequencies testing"
+
 msgid "Different frequency TEST"
+
 msgid "5 minutes"
+
 msgid "org 3"
+
 msgid "google+git in one project"
+
 msgid "translation export set to different frequency"
