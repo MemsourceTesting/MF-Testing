@@ -1,12 +1,6 @@
 <note>
 <to>John</to>
 <from>Doe</from>
-<heading>
-<source>Reminder</source>
-<target>Erinnerung</target>
-</heading>
-<body>
-<source>Don't forget me this weekend!</source>
-<target>Vergiss mich dieses Wochenende nicht!</target>
-</body>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
 </note>
