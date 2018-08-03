@@ -10,7 +10,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Let’s make the web multilingual."
-msgstr "Překlad pro testování exportu"
+msgstr "Machen wir das Internet mehrsprachig."
+
+msgid "Hey, wat's up?"
+msgstr "hej bro, jak je?"
+
 
 msgid "We connect developers and translators around the globe "
 "on Lingohub for a fantastic localization experience."
