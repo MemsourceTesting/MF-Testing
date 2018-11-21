@@ -3,4 +3,5 @@
     <string name="czech">Czech</string>
     <string name="english">English</string>
     <string name="some_other">Some other string</string>
+    <string name="new_string">New string</string>
 </resources>
