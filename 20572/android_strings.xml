@@ -1,0 +1,6 @@
+<resources>
+    <string name="hello_world">Hello World!</string>
+    <string name="czech">Czech</string>
+    <string name="english">English</string>
+    <string name="some_other">Some other string</string>
+</resources>
