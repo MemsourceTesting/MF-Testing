@@ -22,8 +22,3 @@ msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
 
 msgid "Welcome back, %1$s! Your last visit was on %2$s"
 msgstr "Willkommen zurück, %1$s! Dein letzter Besuch war am %2$s"
-
-msgid "%d page read."
-msgid_plural "%d pages read."
-msgstr[0] "Eine Seite gelesen wurde."
-msgstr[1] "%d Seiten gelesen wurden."
